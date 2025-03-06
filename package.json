@@ -1,0 +1,22 @@
+{
+  "name": "plateforme-isi",
+  "version": "1.0.0",
+  "description": "une application pour la gestion des réclamations des salles pédagogiques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InesKhemiri-dev/Plateforme-ISI.git"
+  },
+  "author": "ines khemiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InesKhemiri-dev/Plateforme-ISI/issues"
+  },
+  "homepage": "https://github.com/InesKhemiri-dev/Plateforme-ISI#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
